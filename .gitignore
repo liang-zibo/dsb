@@ -352,3 +352,5 @@ MigrationBackup/
 # Custom
 data/
 format_data/
+queries/
+format_queries/
